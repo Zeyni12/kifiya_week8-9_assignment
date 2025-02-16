@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/200134848443818606/fcbd5cafdd2c49e5a11d96aec7b30729/artifacts
+end_time: 1739699521165
+entry_point_name: ''
+experiment_id: '200134848443818606'
+lifecycle_stage: active
+run_id: fcbd5cafdd2c49e5a11d96aec7b30729
+run_name: Decision Tree
+run_uuid: fcbd5cafdd2c49e5a11d96aec7b30729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739699507551
+status: 3
+tags: []
+user_id: hp

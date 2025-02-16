@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/200134848443818606/8b6e960e80a14b6c8bb85379aaa42f06/artifacts
+end_time: 1739699507436
+entry_point_name: ''
+experiment_id: '200134848443818606'
+lifecycle_stage: active
+run_id: 8b6e960e80a14b6c8bb85379aaa42f06
+run_name: XGBClassifier
+run_uuid: 8b6e960e80a14b6c8bb85379aaa42f06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739699489150
+status: 3
+tags: []
+user_id: hp

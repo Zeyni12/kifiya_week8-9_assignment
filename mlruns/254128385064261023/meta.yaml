@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/254128385064261023
+creation_time: 1739541228815
+experiment_id: '254128385064261023'
+last_update_time: 1739541228815
+lifecycle_stage: active
+name: model tranning for credit_data

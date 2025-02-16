@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/688471250164079586/164c0c5532574c67b418477c4e6785cc/artifacts
+end_time: 1739522247364
+entry_point_name: ''
+experiment_id: '688471250164079586'
+lifecycle_stage: active
+run_id: 164c0c5532574c67b418477c4e6785cc
+run_name: adaptable-colt-287
+run_uuid: 164c0c5532574c67b418477c4e6785cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739522222693
+status: 3
+tags: []
+user_id: hp
