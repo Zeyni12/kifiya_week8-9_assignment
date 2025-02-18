@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/200134848443818606
+creation_time: 1739699447872
+experiment_id: '200134848443818606'
+last_update_time: 1739699447872
+lifecycle_stage: active
+name: model tranning for fraud_data
