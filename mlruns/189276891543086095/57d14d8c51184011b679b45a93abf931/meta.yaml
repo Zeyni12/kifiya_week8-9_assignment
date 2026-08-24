@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/189276891543086095/57d14d8c51184011b679b45a93abf931/artifacts
+end_time: 1787573995747
+entry_point_name: ''
+experiment_id: '189276891543086095'
+lifecycle_stage: active
+run_id: 57d14d8c51184011b679b45a93abf931
+run_name: CNN
+run_uuid: 57d14d8c51184011b679b45a93abf931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787573734422
+status: 3
+tags: []
+user_id: hp

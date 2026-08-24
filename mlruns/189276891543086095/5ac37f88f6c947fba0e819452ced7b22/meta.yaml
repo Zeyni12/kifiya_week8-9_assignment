@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/189276891543086095/5ac37f88f6c947fba0e819452ced7b22/artifacts
+end_time: 1787575249105
+entry_point_name: ''
+experiment_id: '189276891543086095'
+lifecycle_stage: active
+run_id: 5ac37f88f6c947fba0e819452ced7b22
+run_name: LSTM
+run_uuid: 5ac37f88f6c947fba0e819452ced7b22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787574417343
+status: 3
+tags: []
+user_id: hp

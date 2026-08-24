@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/189276891543086095
+creation_time: 1787573730749
+experiment_id: '189276891543086095'
+last_update_time: 1787573730749
+lifecycle_stage: active
+name: Deepmodel tranning for credit_data

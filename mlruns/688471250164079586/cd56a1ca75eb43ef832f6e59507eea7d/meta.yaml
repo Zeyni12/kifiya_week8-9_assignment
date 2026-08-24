@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/688471250164079586/cd56a1ca75eb43ef832f6e59507eea7d/artifacts
+end_time: 1787571725183
+entry_point_name: ''
+experiment_id: '688471250164079586'
+lifecycle_stage: active
+run_id: cd56a1ca75eb43ef832f6e59507eea7d
+run_name: charming-snail-530
+run_uuid: cd56a1ca75eb43ef832f6e59507eea7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1787571706493
+status: 3
+tags: []
+user_id: hp

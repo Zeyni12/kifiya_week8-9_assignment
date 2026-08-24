@@ -14,3 +14,45 @@ INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a
 INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug:127.0.0.1 - - [17/Feb/2025 15:41:14] "[33mGET / HTTP/1.1[0m" 404 -
 INFO:werkzeug:127.0.0.1 - - [17/Feb/2025 15:41:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.59.144:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 11:10:23] "GET /credit_fraud_detection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 11:10:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 11:10:36] "[33mGET /credit_fraud_detection/docs HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 11:10:43] "GET /credit_fraud_detection HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 14:10:35] "[33mPOST /api/2.0/mlflow/runs/create HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 14:10:59] "[33mGET /api/2.0/mlflow/experiments/get-by-name?experiment_name=model+tranning+for+fraud_data HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 14:14:11] "[33mGET /api/2.0/mlflow/experiments/get-by-name?experiment_name=model+tranning+for+fraud_data HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.20.59.144:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-507-943
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:06:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:06:14] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:06:14] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:06:14] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=HcL6zR8sylDoEHxKkrb5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:06:14] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.20.59.144:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 721-507-943
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:07:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:07:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:08:07] "GET /predict HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:08:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:08:17] "GET /predict HTTP/1.1" 200 -
+ERROR:root:Prediction error: Model expects 19 features, but received 15 features after preprocessing.
+INFO:werkzeug:127.0.0.1 - - [24/Aug/2026 16:10:51] "POST /predict HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\hp\\kifiya_acadamy_week8&9\\kifiya_week8-9_assignment\\fraud_detection_api\\model.py', reloading
+INFO:werkzeug: * Restarting with stat
